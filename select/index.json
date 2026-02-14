@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "2022",
+  "base_artist": "虎韻",
+  "createdAt": "2026-02-14T13:39:16.983286Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Impressive Instant (Peter Rauhofer's Universal Radio Mixshow Mix) - 2022 Remaster",
+      "artist": "Madonna feat. Peter Rauhofer",
+      "has_synced": false,
+      "path": "select/01_Impressive_Instant_(Peter_Rauhofer's_Universal_Radio_Mixshow_Mix)_-_2022_Remaste_Madonna_feat._Peter_Rauhofer.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nothing Really Matters (Club 69 Radio Mix) - 2022 Remaster",
+      "artist": "Madonna feat. Peter Rauhofer",
+      "has_synced": false,
+      "path": "select/02_Nothing_Really_Matters_(Club_69_Radio_Mix)_-_2022_Remaster_Madonna_feat._Peter_Rauhofer.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Juanita 2022",
+      "artist": "Underworld",
+      "has_synced": false,
+      "path": "select/03_Juanita_2022_Underworld.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sexual Healing (2022 Remaster)",
+      "artist": "Soul Asylum",
+      "has_synced": true,
+      "path": "select/04_Sexual_Healing_(2022_Remaster)_Soul_Asylum.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yankee Doodle - Live In Syracuse, March 30, 1985 - 2022 Remaster",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/05_Yankee_Doodle_-_Live_In_Syracuse,_March_30,_1985_-_2022_Remaster_Prince.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everybody (You Can Dance Remix Edit) - 2022 Remaster",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/06_Everybody_(You_Can_Dance_Remix_Edit)_-_2022_Remaster_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Into The Groove (You Can Dance Remix Edit) - 2022 Remaster",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/07_Into_The_Groove_(You_Can_Dance_Remix_Edit)_-_2022_Remaster_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Physical Attraction (You Can Dance Remix Edit) - 2022 Remaster",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/08_Physical_Attraction_(You_Can_Dance_Remix_Edit)_-_2022_Remaster_Madonna.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lay It Down (2022 Remaster)",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/09_Lay_It_Down_(2022_Remaster)_Journey.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Paperback Writer - 2022 Stereo Mix",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Paperback_Writer_-_2022_Stereo_Mix_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Paperback Writer (2022 stereo mix)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Paperback_Writer_(2022_stereo_mix)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rain - 2022 Stereo Mix",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Rain_-_2022_Stereo_Mix_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rain (2022 stereo mix)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Rain_(2022_stereo_mix)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Taxman (2022 Mix)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Taxman_(2022_Mix)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Direction of the Heart (Taormina 2022)",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/15_Direction_of_the_Heart_(Taormina_2022)_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Living on a Fault Line - 2022 Version",
+      "artist": "Iron Savior",
+      "has_synced": true,
+      "path": "select/16_Living_on_a_Fault_Line_-_2022_Version_Iron_Savior.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "4 Minutes (feat. Justin Timberlake & Timbaland) [Bob Sinclar Space Funk Edit] - 2022 Remaster",
+      "artist": "Madonna feat. Justin Timberlake & Timbaland",
+      "has_synced": false,
+      "path": "select/17_4_Minutes_(feat._Justin_Timberlake_&_Timbaland)_[Bob_Sinclar_Space_Funk_Edit]_-__Madonna_feat._Justin_Timberlake_&_Timbaland.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2022",
+      "artist": "虎韻",
+      "has_synced": false,
+      "path": "select/pl_01_2022_虎韻.txt"
+    }
+  ]
+}
